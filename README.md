@@ -1,10 +1,11 @@
 # CreditWise-Loan-System-Machine-Learning-Project-FinTech-Project-
 Built an end-to-end supervised ML pipeline using KNN, Logistic Regression, and Naive Bayes to predict loan approval.  Implemented binary classification along with Exploratory Data Analysis (EDA), feature engineering, and model evaluation (Precision, Recall, F1-Score).
-# CreditWise: Loan Approval Prediction System 🏦💰
+
+# CreditWise: Loan Approval Prediction System
 
 CreditWise is an end-to-end supervised machine learning pipeline designed to automate and optimize the credit risk assessment process. By analyzing historical applicant data, the system predicts whether a loan application should be approved or rejected using binary classification algorithms.
 
-## 🚀 Project Overview
+##  Project Overview
 In the traditional banking sector, manually evaluating creditworthiness is time-consuming and prone to human error. CreditWise leverages Machine Learning to streamline this workflow, ensuring faster processing times and data-driven risk management.
 
 ### Key Features Implemented:
@@ -16,7 +17,7 @@ In the traditional banking sector, manually evaluating creditworthiness is time-
 
 ---
 
-## 🛠️ Tech Stack & Libraries
+##  Tech Stack & Libraries
 * **Language:** Python
 * **Environment:** JupyterLab / Jupyter Notebook
 * **Libraries:** * Data Manipulation: `pandas`, `numpy`
